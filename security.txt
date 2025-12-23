@@ -1,0 +1,10 @@
+# Steven Henwood - Security Portfolio
+
+Contact: https://www.linkedin.com/in/steven-henwood-09064511a/
+Expires: 2026-12-31T23:59:59.000Z
+Preferred-Languages: en
+Canonical: https://shenwood.co.uk/security.txt
+Policy: https://github.com/shen04/shen04.github.io/blob/main/README.md
+
+# Acknowledgments: 
+# If you found a bug on this static site, I'd love to hear how you did it!
